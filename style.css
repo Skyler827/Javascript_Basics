@@ -1,0 +1,48 @@
+#page-background {
+    width:970px;
+    min-height: 600px;
+    background-color: rgb(2, 2, 95);
+    padding-top: 10px;
+    color: rgb(194, 228, 240);
+}
+a {
+    color: rgb(149, 182, 241);
+}
+#header {
+    background-color: red;
+    margin:15px;
+    padding: 3px;
+    border-radius: 10px;
+}
+#title {}
+
+#navbar {
+    background-color: rgb(43, 150, 139);
+    display: inline-block;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+}
+ul {
+    padding-left: 30px;
+}
+#main-content {
+    background-color: #111144;
+    display: inline-block;
+    max-width: 68%;
+    vertical-align: top;
+    margin: 15px;
+    margin-left: 5px;
+    margin-right:5px;
+    padding:15px;
+    border-radius: 10px;
+}
+#footer {
+    background-color: grey;
+    margin: 15px;
+    padding: 5px;
+    border-radius:10px;
+}
+span.code {
+    color:rgb(104, 104, 255);
+}
